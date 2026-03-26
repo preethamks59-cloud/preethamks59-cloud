@@ -42,7 +42,7 @@
 - 🤖 Python Mini Projects  
 - 🌐 Web Development Projects  
 
-👉 *More exciting projects coming soon...*  
+👉 *More exciting projects coming soon....*  
 
 ---
 
