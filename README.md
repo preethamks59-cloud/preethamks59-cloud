@@ -21,7 +21,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me  :
 ✨ Passionate Student in Technology  
 💡 Interested in App Development & Programming  
 🐍 Currently learning Python  
