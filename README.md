@@ -17,7 +17,7 @@
 ---
 
 # 🚀 Preetham K S  
-### 💻 Developer | 🎓 Student | 🌱 Python Learner  
+### 💻 Developer | 🎓  Student | 🌱 Python Learner  
 
 ---
 
